@@ -1,15 +1,17 @@
 # odin-recipes
 
-This is a project for The Odin Project recapping basic skills of HTML. It is a simple recipe web page composed of a home page and three recipe pages linked to the homepage. The recipe pages have a picture of the recipe, a description, the ingredients, and the steps for making it.
+This is a project for The Odin Project recapping basic components of HTML.
 
-A few skills are obtained in this project.
+It is a simple recipe web page composed of a home page and three recipe pages linked to the homepage. The recipe pages have a picture of the recipe, a description, the ingredients, and the steps for making it.
 
-The creation of a repository on Github and cloning that to the local machine using SSH.
+Actions:
 
-Usage of the command line interface for Git, including basic commands like add, commit, status, log, mv, mkdir, rm, touch, code (VSCode), and push.
+* The creation of a repository on Github and cloning that to the local machine using SSH
 
-HTML basics. Boilerplate, basic tags (<p>, <h1>), anchor tags & links, lists, images.
+* Usage of Git with the command line interface, including basic commands like add, commit, status, log, mv, mkdir, rm, touch, code (VSCode), and push
 
-Scaling images.
+* Writing commit messages
 
-The website is basic but uses many components of HTML.
+* HTML basics. Boilerplate, basic tags (`<p>`, `<h1>`), anchor tags & links, lists, images
+
+* Setting images sizes with HTML
