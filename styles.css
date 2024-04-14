@@ -1,0 +1,16 @@
+h1 {
+  font-size: 62px;
+  font-family: "Brush Script MT", "Times New Roman", sans-serif;
+}
+
+h2 {
+  color: darkblue;
+  font-size: 30px;
+  font-family: "Brush Script MT", "Times New Roman", sans-serif;
+}
+
+p,
+li {
+  font-size: 18px;
+  font-family: "Copperplate", "Courier New", "Times New Roman", sans-serif;
+}
